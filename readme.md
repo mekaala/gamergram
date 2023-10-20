@@ -1,0 +1,1 @@
+This is a take on a social media application for sharing photos of your favorite games! I was inspired by New Pokemon Snap to build this application.
